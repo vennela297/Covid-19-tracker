@@ -1,6 +1,13 @@
 COVID-19 COUNTRYWISE TRACKER
 
 this is a country wise covid 19 tracker web app ,created using React.js for frontend and chart.js open-source javascript library is used for data visualisation.
+It shows 
+1. The live active cases in the selected country
+2. Live Recovered cases (with total number of recoverd cases)
+3. Live death cases (with total number of death cases) and so on..
+Furtherly Data visualisation is implemented using Chart.js(Maps,graphs) javascript library ,for better visualisation.
+
+
 
 
 
