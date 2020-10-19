@@ -7,11 +7,52 @@ It shows
 3. Live death cases (with total number of death cases) and so on..
 Furtherly Data visualisation is implemented using Chart.js(Maps,graphs) javascript library ,for better visualisation.
 
+SCREENSHOTS OF COVID-19-TRACKER(this stats where taken on 19th october 2020 time-13-o4)
+
+1.LANDING PAGE
+   [world wide covid cases statistics]
 
 
+<img src="screenshots/image6.jpeg" width="700"/>
+
+2.WORLDWIDE recovered cases
+
+<img src="screenshots/image5.jpeg" width="700"/>
+
+3.WORLDWIDE death cases
+
+<img src="screenshots/image7.jpeg" width="700"/>
+
+4.A dropdown is provided to choose the country
+
+<img src="screenshots/image4.jpeg" width="700"/>
+
+[FOR EXAMPLE LETS SEE THE LIVE STATS OF INDIA AND USA ON 19-OCT-2020 13-04]
 
 
+5.INDIA CASES (oct 19 2020 time-13-04)
 
+<img src="screenshots/image2.jpeg" width="700"/>
+
+5.INDIA RECOVERED (oct 19 2020 time-13-04)
+
+<img src="screenshots/image1.jpeg" width="700"/>
+
+5.INDIA DEATH (oct 19 2020 time-13-04)
+
+<img src="screenshots/image3.jpeg" width="700"/>
+
+5.USA CASES (oct 19 2020 time-13-04)
+
+<img src="screenshots/image9.jpeg" width="700"/>
+
+5.USA RECOVERED CASES (oct 19 2020 time-13-04)
+
+<img src="screenshots/image8.jpeg" width="700"/>
+
+5.USA DEATH CASES (oct 19 2020 time-13-04)
+
+<img src="screenshots/image10.jpeg" width="700"/>
 
 
 
