@@ -1,3 +1,13 @@
+COVID-19 COUNTRYWISE TRACKER
+
+this is a country wise covid 19 tracker web app ,created using React.js for frontend and chart.js open-source javascript library is used for data visualisation.
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
